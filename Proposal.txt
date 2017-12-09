@@ -32,7 +32,25 @@ Proposal
 			b. Git Hub for Project Management
 			c. Create branches for research
 
-7. Alternative Library
+7. Alternative CSS
 	a. Materialize
+
+pull request (master) once things have been pushed
+compare differences within files and let you know if there are any merge conflicts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
