@@ -1,0 +1,32 @@
+Proposal
+
+1. Project Title: Enraged Smoke Air & Activity Checker
+
+2. Team Members: Enraged Smoke
+	a. Ravi
+	b. David R. 
+	c. Will
+	d. Saymay
+
+3. Project Description:
+
+	User will enter a place to visit and the Air & Activity Checker will populate information  about things-to-do/events/weather/air-quality
+
+4. Sketch of Final Product
+	See Sketch Image
+
+5. APIs to be used
+	b. google places, yelp
+	c. air quality/weather
+
+6. Rough Breakdown of Tasks
+	a. Design Team: Will/David
+	b. Data Team: Ravi/David/Saymay
+	c. Research:
+		1. Will - less.js
+		2. David - air quality and weather api (airnow api(epa))
+		3. Ravi - google maps api
+		4. Saymay - google places/ yelp
+		
+7. Alernative Library
+	a. less.js
